@@ -233,15 +233,16 @@ On the little jack socket, the tip has round pad, L-shaped leg on the back. The 
 
 # Conclusion #
 
-This project is nearly complete.
+This project is approaching its natural end. It's functioning as I planned, with a few predictable idiosyncrasies. I'm sure I will return to it to make improvements or fixes, but for now I've done what I set out to do.
 
-I still need to 3D print a 9v battery holder, but because the battery leads fit through a small hole in the rear case, leading into the original battery compartment, I'm not working on this until I've sealed the front panel into the case for the last time.
+I do still need to 3D print a 9v battery holder, but because the battery leads fit through a small hole in the rear case, leading into the original internal battery compartment, so I didn't start working on this until I've sealed the front panel into the case for what I hope is the last time.
 
-I've really enjoyed this project. I've had a huge number of learning opportunities and it's taken me multiple months to complete (in parallel with the rest of my life and a number of other projects)
+I've really enjoyed this project. I've had a huge number of learning opportunities and it's rumbled on for multiple months, in parallel with the rest of my life and various other projects.
 
-One of the unique points about this project, it that it's the first time I've work with vintage hardware - and that has provided some interesting challenges, and no small amount of soul-searching.
+One of the unique points about this project, it that I've been working with vintage hardware - and that has provided some interesting challenges, and no small amount of soul-searching.
 
 At the start of this project, I voiced some doubts about whether chopping up a working AVO meter was ethical, and talked myself into continuing.
+An alternative would have been to spend me time instead restoring in an effort to achieve full work order.
 
 Towards the end of the project, I read an interview with Matthew Read, conservator of automata and clocks for the Royal Observatory in Greenwich, the Bowes Museum, and the National Trust. talking about his work in clock repairs.
 
